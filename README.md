@@ -22,4 +22,11 @@ Logs the pressed key's string representation using logging.info.
 
 Creates a Listener object linked to the on_press function.
 Uses the with statement to ensure proper resource management.
-Calls listener.join() to start the listener and keep it running i
+Calls listener.join() to start the listener and keep it running indefinitely!
+
+#Ethical Concerns and Responsible Use:
+
+Obtain explicit consent before using this code on others' devices.
+Restrict its use to educational or research purposes in controlled settings.
+Refrain from using it for malicious activities or unauthorized surveillance.
+Prioritize transparency and respect for privacy when handling sensitive information.
